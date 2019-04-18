@@ -1,21 +1,16 @@
-<script type="text/javascript"
-   src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
-</script>
-
-
 # Leetcode 59 螺旋矩阵II
 ***
 ### 题目描述
-给定一个正整数 \\(n\\), 生成一个包含 1 到 \\(n^2\\), 且元素按顺时针顺序螺旋排列的正方形矩阵。
+给定一个正整数 n, 生成一个包含 1 到 n^2, 且元素按顺时针顺序螺旋排列的正方形矩阵。
 
 **示例:**   
 	
 	输入: 3
 	输出: [
-		   [1, 2, 3],
-		   [8, 9, 4],
-		   [7, 6, 5]
-		  ]  
+	       [1, 2, 3],
+	       [8, 9, 4],
+	       [7, 6, 5]
+	      ]  
 
 ### 考点
 
