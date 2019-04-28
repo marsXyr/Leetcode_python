@@ -32,7 +32,7 @@
  	['B', 'B', 'B', 'B', 'B']]
  	
  	解释：
- 	<img src="images/529_1.png" width="200" height="200" >
+ <img src="images/529_1.png" width="200" height="200" >
 
 **示例2：**   
 	
@@ -53,7 +53,7 @@
  	['B', 'B', 'B', 'B', 'B']]
  	
  	解释：
- 	<img src="images/529_2.png" width="200" height="200" >
+ <img src="images/529_2.png" width="200" height="200" >
 	
     	
 **注意：**  
