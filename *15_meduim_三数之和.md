@@ -57,7 +57,7 @@ class Solution:
 ```
 
 ### 代码2（执行用时: 1488ms, 内存消耗: 16.6MB）
-双指针+优化(及时break)
+双指针+优化
 
 ```
 class Solution(object):
