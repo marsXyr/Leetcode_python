@@ -50,6 +50,5 @@ class Solution:
             node = ListNode(str(rs[i]))
             head.next = node
             head = head.next
-        return res
-             
+        return res            
 ```
