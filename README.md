@@ -10,7 +10,7 @@
 [59_medium_螺旋矩阵II.md](59_medium_螺旋矩阵II.md)     
 [215_medium_数组中的第K个最大元素](215_medium_数组中的第K个最大元素.md)    
 [605_easy_种花问题](605_easy_种花问题.md)   
-[908_easy_最小差值I](908_easy_最小差值 I.md)  
+[908_easy_最小差值I](908_easy_最小差值I.md)  
 [912_medium_排序数组](912_medium_排序数组.md)  
 [969_medium_煎饼排序](969_medium_煎饼排序.md)    
 [989_easy_数组形式的整数加法](989_easy_数组形式的整数加法.md)
