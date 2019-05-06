@@ -7,10 +7,10 @@
 ### 数组    
 
 [**665_easy_非递减数列**](*665_easy_非递减数列.md)    
-[59_medium_螺旋矩阵 II.md](59_medium_螺旋矩阵 II.md)     
+[59_medium_螺旋矩阵II.md](59_medium_螺旋矩阵II.md)     
 [215_medium_数组中的第K个最大元素](215_medium_数组中的第K个最大元素.md)    
 [605_easy_种花问题](605_easy_种花问题.md)   
-[908_easy_最小差值 I](908_easy_最小差值 I.md)  
+[908_easy_最小差值I](908_easy_最小差值 I.md)  
 [912_medium_排序数组](912_medium_排序数组.md)  
 [969_medium_煎饼排序](969_medium_煎饼排序.md)    
 [989_easy_数组形式的整数加法](989_easy_数组形式的整数加法.md)
@@ -40,7 +40,7 @@
 
 [**108_easy_将有序数组转换为二叉搜索树**](*108_easy_将有序数组转换为二叉搜索树.md)  
 [235_easy_二叉搜索树的最近公共祖先](235_easy_二叉搜索树的最近公共祖先.md)   
-[653_easy_两树之和 IV - 输入BST](653_easy_两树之和 IV - 输入BST.md)  
+[653_easy_两树之和IV-输入BST](653_easy_两树之和IV-输入BST.md)  
 [257_easy_二叉树的所有路径](257_easy_二叉树的所有路径.md)
 
 *** 
@@ -55,14 +55,14 @@
 ### 链表  
 
 [83_easy_删除排序链表中的重复元素](83_easy_删除排序链表中的重复元素.md)   
-[445_medium_两数相加 II](445_medium_两数相加 II.md)  
+[445_medium_两数相加II](445_medium_两数相加II.md)  
 [1019_medium_链表中的下一个更大节点](1019_medium_链表中的下一个更大节点.md)
 
 ***
 
 ### 栈/堆/队列  
 
-[496_easy_下一个更大元素 I](496_easy_下一个更大元素 I.md)   
+[496_easy_下一个更大元素I](496_easy_下一个更大元素I.md)   
 [853_medium_车队](853_medium_车队.md)
 
 ***
@@ -71,7 +71,7 @@
 
 [**775_medium_全局倒置与局部倒置**](*775_medium_全局倒置与局部倒置.md)  
 [202_easy_快乐数](202_easy_快乐数.md)  
-[292_easy_Nim 游戏](292_easy_Nim 游戏.md)   
+[292_easy_Nim游戏](292_easy_Nim游戏.md)   
 [593_medium_有效的正方形](593_medium_有效的正方形.md)   
 [686_easy_重复叠加字符串匹配](686_easy_重复叠加字符串匹配.md)   
 [717_easy_一比特与两比特字符](717_easy_一比特与两比特字符.md)  
@@ -102,7 +102,7 @@
 
 ### 回溯法/递归  
 
-[**40_medium_组合总和 II**](*40_medium_组合总和 II.md)    
+[**40_medium_组合总和II**](*40_medium_组合总和II.md)    
 [33_medium_搜索旋转排序数组](33_medium_搜索旋转排序数组.md)   
 [93_medium_重复IP地址](93_medium_重复IP地址.md)
 
@@ -122,7 +122,7 @@
 
 ### 滑动窗口
    
-[1004_medium_最大连续1的个数 III](1004_medium_最大连续1的个数 III.md)     
+[1004_medium_最大连续1的个数III](1004_medium_最大连续1的个数III.md)     
   
 ***
 
