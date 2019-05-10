@@ -20,8 +20,8 @@
 * DFS
 
 ### 思路  
-先判断一些基础的条件，比如：如果k=1那直接return True, 如果sum(nums)%k不等于0，那直接返回False，如果len(nums)<k,那么直接return False.  
-然后进行DFS搜索，当本次搜索的temp等于avg时，说明划分了一个和为avg的子集，那么就进行下一次划分。注意nums数组是已排序的。用visited记录遍历过的数字，也就是每个子集中元素各不相同。
+先判断一些基础的条件，比如：如果`k=1`那直接`return True`, 如果`sum(nums)%k`不等于`0`，那直接返回`False`，如果`len(nums)<k`,那么直接`return False`.  
+然后进行DFS搜索，当本次搜索的`temp`等于`avg`时，说明划分了一个和为`avg`的子集，那么就进行下一次划分。注意`nums`数组是已排序的。用`visited`记录遍历过的数字，也就是每个子集中元素各不相同。
 
 
 ### 代码
