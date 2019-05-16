@@ -5,7 +5,7 @@
 
 现有一个链表 -- head = [4,5,1,9]，它可以表示为:
 
-<img src="images/237.png" width="200" height="200" >
+<img src="images/237.png" width="400" height="150" >
 
 **示例1:**  
 
