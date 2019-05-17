@@ -18,7 +18,8 @@
 [605_easy_种花问题](605_easy_种花问题.md)   
 [908_easy_最小差值I](908_easy_最小差值I.md)  
 [912_medium_排序数组](912_medium_排序数组.md)  
-[969_medium_煎饼排序](969_medium_煎饼排序.md)    
+[969_medium_煎饼排序](969_medium_煎饼排序.md)   
+[978_medium_最长湍流子数组](978_medium_最长湍流子数组.md)    
 [989_easy_数组形式的整数加法](989_easy_数组形式的整数加法.md)
 
 ***
@@ -110,6 +111,7 @@
 [542_medium_01矩阵](542_medium_01矩阵.md)  
 [861_medium_翻转矩阵后的得分](861_medium_翻转矩阵后的得分.md)   
 [948_medium_令牌放置](948_medium_令牌放置.md)  
+[978_medium_最长湍流子数组](978_medium_最长湍流子数组.md)    
 [983_medium_最低票价](983_medium_最低票价.md)
 
 *** 
