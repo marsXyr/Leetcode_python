@@ -87,7 +87,8 @@
 ### 数学/技巧  
 
 [**775_medium_全局倒置与局部倒置**](*775_medium_全局倒置与局部倒置.md)  
-[202_easy_快乐数](202_easy_快乐数.md)  
+[202_easy_快乐数](202_easy_快乐数.md)   
+[263_easy_丑数](263_easy_丑数.md)    
 [292_easy_Nim游戏](292_easy_Nim游戏.md)   
 [593_medium_有效的正方形](593_medium_有效的正方形.md)   
 [670_medium_最大交换](670_medium_最大交换.md)    
