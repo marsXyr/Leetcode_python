@@ -137,7 +137,7 @@
 
 [**40_medium_组合总和II**](*40_medium_组合总和II.md)    
 [33_medium_搜索旋转排序数组](33_medium_搜索旋转排序数组.md)  
-[39_medium_组合总和](39_medium_组合总和.md)
+[39_medium_组合总和](39_medium_组合总和.md)     
 [93_medium_重复IP地址](93_medium_重复IP地址.md)  
 [216_medium_组合总和III](216_medium_组合总和III.md)   
 [779_medium_第K个语法符号](779_medium_第K个语法符号.md)     
