@@ -10,6 +10,7 @@
 
 ### 数组    
 
+[**532_medium_数组中的K-diff数对**](*532_medium_数组中的K-diff数对.md)     
 [**665_easy_非递减数列**](*665_easy_非递减数列.md)    
 [59_medium_螺旋矩阵II.md](59_medium_螺旋矩阵II.md)     
 [88_easy_合并两个有序数组](88_easy_合并两个有序数组.md)    
