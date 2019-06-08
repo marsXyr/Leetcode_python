@@ -14,7 +14,7 @@
 	输出：tail connects to node index 1
 	解释：链表中有一个环，其尾部连接到第二个节点。
 
-<img src="images/142_1.png" width="100" height="300" >
+<img src="images/142_1.png" width="300" height="100" >
 
 
 **示例2：**
@@ -23,7 +23,7 @@
 	输出：tail connects to node index 0
 	解释：链表中有一个环，其尾部连接到第一个节点。
 
-<img src="images/142_2.png" width="100" height="200" >
+<img src="images/142_2.png" width="200" height="100" >
 
 **示例3：**
 
