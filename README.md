@@ -47,7 +47,8 @@
 
 ### 哈希表  
 
-[**560_medium_和为k的子数组**](*560_medium_和为k的子数组.md)   
+[**560_medium_和为k的子数组**](*560_medium_和为k的子数组.md)    
+[49_medium_字母异位词分组](49_medium_字母异位词分组.md)    
 [187_medium_重复的DNA序列](187_medium_重复的DNA序列.md)   
 [242_easy_有效的字母异位词](242_easy_有效的字母异位词.md)  
 [290_easy_单词规律](290_easy_单词规律.md)     
