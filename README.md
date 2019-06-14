@@ -15,6 +15,7 @@
 [**769_medium_最多能完成排序的块**](*769_medium_最多能完成排序的块.md)    
 [59_medium_螺旋矩阵II.md](59_medium_螺旋矩阵II.md)     
 [88_easy_合并两个有序数组](88_easy_合并两个有序数组.md)    
+[118_easy_杨辉三角](118_easy_杨辉三角.md)    
 [215_medium_数组中的第K个最大元素](215_medium_数组中的第K个最大元素.md)   
 [442_medium_数组中重复的数据](442_medium_数组中重复的数据.md)  
 [457_medium_环形数组循环](457_medium_环形数组循环.md)  
