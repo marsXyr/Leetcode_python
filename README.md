@@ -129,7 +129,8 @@
 
 [**162_medium_寻找峰值**](*162_medium_寻找峰值.md)    
 [**300_medium_最长上升子序列**](*300_medium_最长上升子序列.md)    
-[33_medium_搜索旋转排序数组](33_medium_搜索旋转排序数组.md)    
+[33_medium_搜索旋转排序数组](33_medium_搜索旋转排序数组.md)  
+[50_medium_Pow(x,n)](50_medium_Pow(x,n).md)    
 [275_medium_H指数II](275_medium_H指数II.md)    
 [374_easy_猜数字大小](374_easy_猜数字大小.md)   
 [704_easy_二分查找](704_easy_二分查找.md)    
