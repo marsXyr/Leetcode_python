@@ -46,7 +46,7 @@ class Solution:
         return right - left
 ```
 
-### 代码2(其他做法，执行用时：56ms)
+### 代码2(哈希表，执行用时：56ms)
 
 ```
 class Solution:
