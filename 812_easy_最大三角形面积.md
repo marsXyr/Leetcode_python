@@ -10,7 +10,7 @@
 	解释: 
 	这五个点如下图所示。组成的橙色三角形是最大的，面积为2。
 
-<img src="images/812.png" width="200" height="200" >
+<img src="images/812.png" width="350" height="300" >
 
 	
 **注意：**
