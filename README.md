@@ -171,7 +171,8 @@
 [881_medium_救生艇](881_medium_救生艇.md)   
 [948_medium_令牌放置](948_medium_令牌放置.md)  
 [978_medium_最长湍流子数组](978_medium_最长湍流子数组.md)    
-[983_medium_最低票价](983_medium_最低票价.md)
+[983_medium_最低票价](983_medium_最低票价.md)    
+[1043_medium_分隔数组以得到最大和](1043_medium_分隔数组以得到最大和.md)
 
 *** 
 
