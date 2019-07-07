@@ -5,7 +5,7 @@
 
 例如，给定一个 `3叉树` :
 
-<img src="images/429.png" width="200" height="200" >
+<img src="images/429.png" width="250" height="200" >
 
 返回其层序遍历：
 
