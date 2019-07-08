@@ -10,20 +10,23 @@
 只有与值 `x` 和 `y` 对应的节点是堂兄弟节点时，才返回 `true`。否则，返回 `false`。
 
 
-**示例1:**
+**示例1:**     
+
 <img src="images/993_1.png" width="200" height="200" >
 
 	输入：root = [1,2,3,4], x = 4, y = 3
 	输出：false
 	
-**示例2:**
+**示例2:**     
+
 <img src="images/993_2.png" width="200" height="200" >
 
 	输入：root = [1,2,3,null,4,null,5], x = 5, y = 4
 	输出：true
 	
 
-**示例3:**
+**示例3:**     
+
 <img src="images/993_3.png" width="200" height="200" >
 
 	输入：root = [1,2,3,null,4], x = 2, y = 3
