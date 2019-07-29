@@ -210,6 +210,7 @@
 [90_medium_子集II](90_medium_子集II.md)      
 [93_medium_重复IP地址](93_medium_重复IP地址.md)  
 [216_medium_组合总和III](216_medium_组合总和III.md)   
+[**386_medium_字典序排数**](*386_medium_字典序排数.md)    
 [779_medium_第K个语法符号](779_medium_第K个语法符号.md)     
 
 ***
