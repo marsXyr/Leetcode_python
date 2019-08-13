@@ -13,7 +13,7 @@
 	输出：true
 	解释：链表中有一个环，其尾部连接到第二个节点。
 	
-<img src="images/141_1.png" width="200" height="100" >
+<img src="images/141_1.png" width="300" height="120" >
 
 **示例2:** 
 
