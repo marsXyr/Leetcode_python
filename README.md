@@ -219,6 +219,7 @@
 [860_easy_柠檬水找零](860_easy_柠檬水找零.md)     
 [861_medium_翻转矩阵后的得分](861_medium_翻转矩阵后的得分.md)  
 [881_medium_救生艇](881_medium_救生艇.md)   
+[931_medium_下降路径最小和](931_medium_下降路径最小和.md)    
 [948_medium_令牌放置](948_medium_令牌放置.md)  
 [978_medium_最长湍流子数组](978_medium_最长湍流子数组.md)    
 [983_medium_最低票价](983_medium_最低票价.md)    
