@@ -120,6 +120,7 @@
 [**15_medium_三数之和**](*15_medium_三数之和.md)  
 [**713_medium_乘积小于K的子数组**](*713_medium_乘积小于K的子数组.md)    
 [75_medium_颜色分类](75_medium_颜色分类.md)   
+[125_easy_验证回文串](125_easy_验证回文串.md)    
 [167_easy_两数之和II输入有序数组](167_easy_两数之和II输入有序数组.md)    
 [392_medium_判断子序列](392_medium_判断子序列.md)     
 [457_medium_环形数组循环](457_medium_环形数组循环.md)   
