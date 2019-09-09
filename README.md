@@ -15,6 +15,7 @@
 [**532_medium_数组中的K-diff数对**](*532_medium_数组中的K-diff数对.md)     
 [**665_easy_非递减数列**](*665_easy_非递减数列.md)   
 [**769_medium_最多能完成排序的块**](*769_medium_最多能完成排序的块.md)    
+[**915_medium_分割数组**](*915_medium_分割数组.md)      
 [**1014_medium_最佳观光组合**](*1014_medium_最佳观光组合.md)    
 [59_medium_螺旋矩阵II.md](59_medium_螺旋矩阵II.md)     
 [66_easy_加一](66_easy_加一.md)    
