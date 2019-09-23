@@ -12,7 +12,7 @@
 	输入：[8,5,1,7,10,12]
 	输出：[8,5,10,1,7,null,12]
 
-	<img src="images/1008.png" width="200" height="200" >
+<img src="images/1008.png" width="200" height="200" >
 
 **提示：**
 
