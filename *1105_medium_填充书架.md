@@ -16,7 +16,7 @@
 
 以这种方式布置书架，返回书架整体可能的最小高度。
 
-<img src="images/1105.png" width="200", height="200">
+<img src="images/1105.png" width="200" height="200">
 
 **示例:**
 
