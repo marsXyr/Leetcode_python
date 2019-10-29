@@ -211,6 +211,7 @@
 [33_medium_搜索旋转排序数组](33_medium_搜索旋转排序数组.md)  
 [34_medium_在排序数组中查找元素的第一个和最后一个位置](34_medium_在排序数组中查找元素的第一个和最后一个位置.md)     
 [50_medium_Pow(x,n)](50_medium_Pow(x,n).md)    
+[69_easy_x的平方根](69_easy_x的平方根.md)    
 [275_medium_H指数II](275_medium_H指数II.md)    
 [367_easy_有效的完全平方数](367_easy_有效的完全平方数.md)   
 [374_easy_猜数字大小](374_easy_猜数字大小.md)   
