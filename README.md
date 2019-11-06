@@ -271,7 +271,8 @@
 [90_medium_子集II](90_medium_子集II.md)      
 [93_medium_重复IP地址](93_medium_重复IP地址.md)  
 [216_medium_组合总和III](216_medium_组合总和III.md)      
-[779_medium_第K个语法符号](779_medium_第K个语法符号.md)     
+[779_medium_第K个语法符号](779_medium_第K个语法符号.md)   
+[1239_medium_串联字符串的最大长度](1239_medium_串联字符串的最大长度.md)     
 
 ***
 
