@@ -178,6 +178,7 @@
 ### 数学/技巧  
 
 [**169_easy_求众数**](*169_easy_求众数.md)    
+[**233_hard_1~n整数中1出现的次数**](*233_hard_1~n整数中1出现的次数.md)   
 [**775_medium_全局倒置与局部倒置**](*775_medium_全局倒置与局部倒置.md)  
 [**974_medium_和可被K整除的子数组**](*974_medium_和可被K整除的子数组.md)      
 [**1109_medium_航班预订统计**](*1109_medium_航班预订统计.md)    
@@ -185,7 +186,7 @@
 [60_medium_第k个排列](60_medium_第k个排列.md)     
 [62_medium_不同路径](62_medium_不同路径.md)     
 [171_easy_Excel表列序号](171_easy_Excel表列序号.md)    
-[202_easy_快乐数](202_easy_快乐数.md)   
+[202_easy_快乐数](202_easy_快乐数.md)  
 [258_easy_各位相加](258_easy_各位相加.md)    
 [263_easy_丑数](263_easy_丑数.md)    
 [292_easy_Nim游戏](292_easy_Nim游戏.md)    
