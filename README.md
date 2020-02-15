@@ -245,6 +245,7 @@
 [213_medium_打劫家舍II](213_medium_打劫家舍II.md)    
 [303_easy_区域和检索-数组不可变](303_easy_区域和检索-数组不可变.md)   
 [304_medium_二维区域和检索-矩阵不可变](304_medium_二维区域和检索-矩阵不可变.md)  
+[343_medium_整数拆分](343_medium_整数拆分.md)     
 [452_medium_用最少数量的箭引爆气球](452_medium_用最少数量的箭引爆气球.md)    
 [539_medium_最小时间差](539_medium_最小时间差.md)  
 [542_medium_01矩阵](542_medium_01矩阵.md)   
