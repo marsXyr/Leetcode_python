@@ -10,7 +10,8 @@
 ## 程序员面试金典
 
 [Interview_01.01_easy_判定字符是否唯一](Interview_01.01_easy_判定字符是否唯一.md)     
-[Interview_04.12_medium_求和路径](Interview_04.12_medium_求和路径.md)    
+[Interview_04.12_medium_求和路径](Interview_04.12_medium_求和路径.md)  
+[Interview_05.03_easy_翻转数位](Interview_05.03_easy_翻转数位.md)    
 [Interview_16.11_easy_跳水板](Interview_16.11_easy_跳水板.md)   
 [Interview_17.04_easy_消失的数字](Interview_17.04_easy_消失的数字.md)   
   
