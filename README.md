@@ -25,6 +25,7 @@
 [Interview_40_easy_最小的k个数](Interview_40_easy_最小的k个数.md)    
 [Interview_43_medium_1~n整数中1出现的次数](Interview_43_medium_1~n整数中1出现的次数.md)   
 [Interview_50_easy_第一个只出现一次的字符](Interview_50_easy_第一个只出现一次的字符.md)   
+[Interview_55-I_easy_二叉树的深度](Interview_55-I_easy_二叉树的深度.md)      
 
 ******************************************************  
 
