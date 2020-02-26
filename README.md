@@ -22,14 +22,22 @@
 
 ## 剑指Offer
 
+[Interview_03_easy_数组中重复的数字](Interview_03_easy_数组中重复的数字.md)
+[Interview_04_easy_二维数组中的查找](Interview_04_easy_二维数组中的查找.md)
+[Interview_05_easy_替换空格](Interview_05_easy_替换空格.md)
+[Interview_06_easy_从头到尾打印链表](Interview_06_easy_从头到尾打印链表.md)
+[Interview_07_medium_重建二叉树](Interview_07_medium_重建二叉树.md)    
 [Interview_13_medium_机器人的运动范围](Interview_13_medium_机器人的运动范围.md)     
 [Interview_18_easy_删除链表的节点](Interview_18_easy_删除链表的节点.md)  
-[Interview_32-II_easy_从上到下打印二叉树II](Interview_32-II_easy_从上到下打印二叉树II.md)      
+[Interview_32-II_easy_从上到下打印二叉树II](Interview_32-II_easy_从上到下打印二叉树II.md)     
+[Interview_33_medium_二叉搜索树的后序遍历序列](Interview_33_medium_二叉搜索树的后序遍历序列.md)    
 [Interview_40_easy_最小的k个数](Interview_40_easy_最小的k个数.md)    
 [Interview_43_medium_1~n整数中1出现的次数](Interview_43_medium_1~n整数中1出现的次数.md)   
 [Interview_50_easy_第一个只出现一次的字符](Interview_50_easy_第一个只出现一次的字符.md)   
 [Interview_55-I_easy_二叉树的深度](Interview_55-I_easy_二叉树的深度.md)   
 [Interview_55-II_easy_平衡二叉树](Interview_55-II_easy_平衡二叉树.md)    
+[Interview_56-II_medium_数组中数字出现的次数 II](Interview_56-II_medium_数组中数字出现的次数 II.md)    
+[Interview_57_easy_和为s的两个数字](Interview_57_easy_和为s的两个数字.md)    
 
 ******************************************************  
 
@@ -325,41 +333,4 @@
 [257_easy_二叉树的所有路径](257_easy_二叉树的所有路径.md)   
 [417_medium_太平洋大西洋水流问题](417_medium_太平洋大西洋水流问题.md)  
 [529_medium_扫雷游戏](529_medium_扫雷游戏.md)    
-[542_medium_01矩阵](542_medium_01矩阵.md)   
-[671_easy_二叉树中第二小的节点](671_easy_二叉树中第二小的节点.md)  
-[733_easy_图像渲染](733_easy_图像渲染.md)   
-[841_medium_钥匙和房间](841_medium_钥匙和房间.md)     
-[934_medium_最短的桥](934_medium_最短的桥.md)  
- 
-
-***
-
-### 滑动窗口
-   
-[**3_medium_无重复字符的最长子串**](*3_medium_无重复字符的最长子串.md)  
-[**567_medium_字符串的排列**](*567_medium_字符串的排列.md)    
-[1004_medium_最大连续1的个数III](1004_medium_最大连续1的个数III.md)     
-  
-***
-
-### 位操作    
-
-[**201_medium_数字范围按位与**](*201_medium_数字范围按位与.md)    
-[29_medium_两数相除](29_medium_两数相除.md)   
-[136_easy_只出现一次的数字](136_easy_只出现一次的数字.md)   
-[137_medium_只出现一次的数字II](137_medium_只出现一次的数字II.md)    
-[342_easy_4的幂](342_easy_4的幂.md)    
-[371_easy_两整数之和](371_easy_两整数之和.md)    
-[397_medium_整数替换](397_medium_整数替换.md)    
-[477_medium_汉明距离总和](477_medium_汉明距离总和.md)  
-[693_easy_交替位二进制数](693_easy_交替位二进制数.md)   
-[898_medium_子数组按位或操作](898_medium_子数组按位或操作.md)
-
-***
-
-### 并查集
-
-[721_medium_账户合并](721_medium_账户合并.md)
-
-***
-
+[542_medium_01矩阵](542_medium_
