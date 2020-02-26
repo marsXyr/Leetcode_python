@@ -36,7 +36,7 @@
 [Interview_50_easy_第一个只出现一次的字符](Interview_50_easy_第一个只出现一次的字符.md)   
 [Interview_55-I_easy_二叉树的深度](Interview_55-I_easy_二叉树的深度.md)   
 [Interview_55-II_easy_平衡二叉树](Interview_55-II_easy_平衡二叉树.md)    
-[Interview_56-II_medium_数组中数字出现的次数 II](Interview_56-II_medium_数组中数字出现的次数 II.md)    
+[Interview_56-II_medium_数组中数字出现的次数II](Interview_56-II_medium_数组中数字出现的次数II.md)    
 [Interview_57_easy_和为s的两个数字](Interview_57_easy_和为s的两个数字.md)    
 
 ******************************************************  
