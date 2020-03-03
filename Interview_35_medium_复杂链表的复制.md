@@ -7,7 +7,7 @@
 
 **示例1：**
 
-<img src="images/Interview_35_1.png" width="500" height="100">
+<img src="images/Interview_35_1.png" width="600" height="100">
 
 	输入：head = [[7,null],[13,0],[11,4],[10,2],[1,0]]
 	输出：[[7,null],[13,0],[11,4],[10,2],[1,0]]
