@@ -53,6 +53,8 @@
 [Interview_32-II_easy_从上到下打印二叉树II](Interview_32-II_easy_从上到下打印二叉树II.md)   
 [Interview_32-III_medium_从上到下打印二叉树III](Interview_32-III_medium_从上到下打印二叉树III.md)    
 [Interview_33_medium_二叉搜索树的后序遍历序列](Interview_33_medium_二叉搜索树的后序遍历序列.md)    
+[Interview_34_medium_二叉树中和为某一值的路径](Interview_34_medium_二叉树中和为某一值的路径.md)   
+[Interview_35_medium_复杂链表的复制](Interview_35_medium_复杂链表的复制.md)    
 [Interview_40_easy_最小的k个数](Interview_40_easy_最小的k个数.md)    
 [Interview_43_medium_1~n整数中1出现的次数](Interview_43_medium_1~n整数中1出现的次数.md)   
 [Interview_50_easy_第一个只出现一次的字符](Interview_50_easy_第一个只出现一次的字符.md)   
