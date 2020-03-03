@@ -63,24 +63,32 @@
 执行用时: **64ms**, 内存消耗: **14.1MB**
 
 ```
-# Definition for a binary tree node.
-# class TreeNode:
-#     def __init__(self, x):
-#         self.val = x
-#         self.left = None
-#         self.right = None
-
+"""
+# Definition for a Node.
+class Node:
+    def __init__(self, x: int, next: 'Node' = None, random: 'Node' = None):
+        self.val = int(x)
+        self.next = next
+        self.random = random
+"""
 class Solution:
-    def pathSum(self, root: TreeNode, sum: int) -> List[List[int]]:
-        self.res = []       
-        def back(root, path, curSum, sum):
-            if not root: return
-            if curSum + root.val == sum and not root.left and not root.right :
-                self.res.append(path+[root.val])
-            back(root.left, path+[root.val], curSum + root.val, sum)
-            back(root.right, path+[root.val], curSum + root.val, sum)       
-        back(root, [], 0, sum)
-        return self.res
+    def copyRandomList(self, head: 'Node') -> 'Node':
+        if not head: return head
+        cur = head
+        while cur:
+            new_node = Node(cur.val, None, None)
+            new_node.next = cur.next
+            cur.next = new_node
+            cur = new_node.next
+        cur = head
+        while cur:
+            cur.next.random = cur.random.next if cur.random else None
+            cur = cur.next.next
+        old = head
+        new = head.next
+        copy = head.next
+        while old:
+            old.nex
 ```
 
 ### 代码2（图DFS）
