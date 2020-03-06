@@ -67,6 +67,8 @@
 [Interview_49_medium_丑数](Interview_49_medium_丑数.md)    
 [Interview_43_medium_1~n整数中1出现的次数](Interview_43_medium_1~n整数中1出现的次数.md)   
 [Interview_50_easy_第一个只出现一次的字符](Interview_50_easy_第一个只出现一次的字符.md)   
+[Interview_51_hard_数组中的逆序对](Interview_51_hard_数组中的逆序对.md)   
+[Interview_52_easy_两个链表的第一个公共节点](Interview_52_easy_两个链表的第一个公共节点.md)    
 [Interview_55-I_easy_二叉树的深度](Interview_55-I_easy_二叉树的深度.md)   
 [Interview_55-II_easy_平衡二叉树](Interview_55-II_easy_平衡二叉树.md)    
 [Interview_56-II_medium_数组中数字出现的次数II](Interview_56-II_medium_数组中数字出现的次数II.md)    
