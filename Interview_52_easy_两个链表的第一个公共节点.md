@@ -30,7 +30,7 @@
 
 **示例3：**
 
-<img src="images/Interview_52_4.png" width="500" height="150">
+<img src="images/Interview_52_4.png" width="300" height="150">
 
 	输入：intersectVal = 0, listA = [2,6,4], listB = [1,5], skipA = 3, skipB = 2
 	输出：null
