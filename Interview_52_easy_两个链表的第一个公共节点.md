@@ -21,7 +21,7 @@
 	
 **示例2：**
 
-<img src="images/Interview_52_3.png" width="500" height="150">
+<img src="images/Interview_52_3.png" width="400" height="150">
 
 	输入：intersectVal = 2, listA = [0,9,1,2,4], listB = [3,2,4], skipA = 3, skipB = 1
 	输出：Reference of the node with value = 2
