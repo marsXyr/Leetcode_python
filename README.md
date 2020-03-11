@@ -76,7 +76,13 @@
 [Interview_55-II_easy_平衡二叉树](Interview_55-II_easy_平衡二叉树.md)    
 [Interview_56-I_medium_数组中数字出现的次数](Interview_56-I_medium_数组中数字出现的次数.md)   
 [Interview_56-II_medium_数组中数字出现的次数II](Interview_56-II_medium_数组中数字出现的次数II.md)    
-[Interview_57_easy_和为s的两个数字](Interview_57_easy_和为s的两个数字.md)    
+[Interview_57_easy_和为s的两个数字](Interview_57_easy_和为s的两个数字.md)   
+[Interview_57-II_easy_和为s的连续正数序列](Interview_57-II_easy_和为s的连续正数序列.md)   
+[Interview_58-I_easy_翻转单词顺序](Interview_58-I_easy_翻转单词顺序.md)   
+[Interview_58-II_easy_左旋转字符串](Interview_58-II_easy_左旋转字符串.md)   
+[Interview_59-I_easy_滑动窗口的最大值](Interview_59-I_easy_滑动窗口的最大值.md)   
+[Interview_59-II_medium_队列的最大值](Interview_59-II_medium_队列的最大值.md)   
+[Interview_60_easy_n个骰子的点数](Interview_60_easy_n个骰子的点数.md)    
 
 ******************************************************  
 
