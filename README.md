@@ -83,6 +83,15 @@
 [Interview_59-I_easy_滑动窗口的最大值](Interview_59-I_easy_滑动窗口的最大值.md)   
 [Interview_59-II_medium_队列的最大值](Interview_59-II_medium_队列的最大值.md)   
 [Interview_60_easy_n个骰子的点数](Interview_60_easy_n个骰子的点数.md)    
+[Interview_61_easy_扑克牌中的顺子](Interview_61_easy_扑克牌中的顺子.md)   
+[Interview_62_easy_圆圈中最后剩下的数字](Interview_62_easy_圆圈中最后剩下的数字.md)  
+[Interview_63_medium_股票的最大利润](Interview_63_medium_股票的最大利润.md)   
+[Interview_64_medium_求1+2+...+n](Interview_64_medium_求1+2+...+n.md)  
+[Interview_65_easy_不用加减乘除做加法](Interview_65_easy_不用加减乘除做加法.md)   
+[Interview_66_easy_构建乘积数组](Interview_66_easy_构建乘积数组.md)  
+[Interview_67_medium_把字符串转换成整数](Interview_67_medium_把字符串转换成整数.md)   
+[Interview_68-I_easy_二叉搜索树的最近公共祖先](Interview_68-I_easy_二叉搜索树的最近公共祖先.md)   
+[Interview_68-II_medium_二叉树的最近公共祖先](Interview_68-II_medium_二叉树的最近公共祖先.md)    
 
 ******************************************************  
 
