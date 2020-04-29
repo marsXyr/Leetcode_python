@@ -108,7 +108,7 @@ class Solution:
 ```
 class Solution:
     def partition(self, s: str) -> List[List[str]]:
-	    def helper(s, tmp):
+	def helper(s, tmp):
            if not s:
                res.append(tmp)
            for i in range(1, len(s) + 1):
