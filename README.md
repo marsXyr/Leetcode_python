@@ -104,6 +104,8 @@
 [**769_medium_最多能完成排序的块**](*769_medium_最多能完成排序的块.md)    
 [**915_medium_分割数组**](*915_medium_分割数组.md)      
 [**1014_medium_最佳观光组合**](*1014_medium_最佳观光组合.md)   
+[1_easy_两数之和](1_easy_两数之和.md)   
+[4_hard_寻找两个有序数组的中位数](4_hard_寻找两个有序数组的中位数.md)        
 [43_medium_字符串相乘](43_medium_字符串相乘.md)      
 [59_medium_螺旋矩阵II](59_medium_螺旋矩阵II.md)     
 [66_easy_加一](66_easy_加一.md)    
