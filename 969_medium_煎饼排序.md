@@ -76,7 +76,7 @@ class Solution:
         for i in range(len(A), 0, -1):
             idx = A.index(i)
             result.extend([idx+1, i])
-            A = A[:idx:-1] + A[:idx]
+            A = A[idx:-1] + A[:idx]
         return result
 ``` 
 
