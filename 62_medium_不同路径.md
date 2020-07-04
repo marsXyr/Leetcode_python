@@ -7,7 +7,7 @@
 
 问总共有多少条不同的路径？
 
-<img src="images/235.png" width="=400" height="200" >
+<img src="images/62.png" width="=400" height="200" >
 
 例如，上图是一个7 x 3 的网格。有多少可能的路径？
 
